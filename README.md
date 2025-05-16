@@ -1,4 +1,4 @@
-Gold-Price-forecasting
+Gold-Price-forecasting:
 Exploration of various quantitative forecasting methods in forecasting usig time series.This notebook contains different methods that can be applied to forecast gold price.
 
 Data Source:
